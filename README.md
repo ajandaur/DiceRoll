@@ -8,5 +8,6 @@ An app that helps users roll dice then store the results they had.
 - SwiftUI
 - Core Data
 - Haptics 
+- Core Animation
 ## Demo
 ![Dice Roll Demo](DiceRoll/demo/demo.gif)
